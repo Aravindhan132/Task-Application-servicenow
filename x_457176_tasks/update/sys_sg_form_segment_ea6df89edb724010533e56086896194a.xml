@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">e26df89edb724010533e560868961948</embedded_screen>
+        <form display_value="Custom App">aa6df89edb724010533e560868961945</form>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>Aravind</sys_created_by>
+        <sys_created_on>2020-02-08 08:05:46</sys_created_on>
+        <sys_id>ea6df89edb724010533e56086896194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_457176_tasks">37ed2492db724010533e56086896194b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tasks">37ed2492db724010533e56086896194b</sys_scope>
+        <sys_update_name>sys_sg_form_segment_ea6df89edb724010533e56086896194a</sys_update_name>
+        <sys_updated_by>Aravind</sys_updated_by>
+        <sys_updated_on>2020-02-08 08:05:46</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

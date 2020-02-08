@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description>Custom Task App</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Clipboard-Lines">f8e17c56db724010533e56086896193e</icon>
+        <name>Custom App</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>Aravind</sys_created_by>
+        <sys_created_on>2020-02-08 07:15:24</sys_created_on>
+        <sys_id>f8e17c56db724010533e560868961943</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Custom App</sys_name>
+        <sys_package display_value="Tasks" source="x_457176_tasks">37ed2492db724010533e56086896194b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tasks">37ed2492db724010533e56086896194b</sys_scope>
+        <sys_update_name>sys_sg_list_screen_f8e17c56db724010533e560868961943</sys_update_name>
+        <sys_updated_by>Aravind</sys_updated_by>
+        <sys_updated_on>2020-02-08 07:49:31</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=f8e17c56db724010533e560868961943"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">37ed2492db724010533e56086896194b</application>
+        <file_path/>
+        <instance_id>51f27b92db8bd7044c1ff70fbf9619d7</instance_id>
+        <instance_name>dev63717</instance_name>
+        <name>sys_sg_list_screen_f8e17c56db724010533e560868961943</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description>Custom Task App</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Clipboard-Lines">f8e17c56db724010533e56086896193e</icon><name>Custom App</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>Aravind</sys_created_by><sys_created_on>2020-02-08 07:15:24</sys_created_on><sys_id>f8e17c56db724010533e560868961943</sys_id><sys_mod_count>8</sys_mod_count><sys_name>Custom App</sys_name><sys_package display_value="Tasks" source="x_457176_tasks">37ed2492db724010533e56086896194b</sys_package><sys_policy/><sys_scope display_value="Tasks">37ed2492db724010533e56086896194b</sys_scope><sys_update_name>sys_sg_list_screen_f8e17c56db724010533e560868961943</sys_update_name><sys_updated_by>Aravind</sys_updated_by><sys_updated_on>2020-02-08 07:49:31</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=f8e17c56db724010533e560868961943"/></record_update>]]></payload>
+        <payload_hash>-1477006140</payload_hash>
+        <record_name>Custom App</record_name>
+        <reverted_from/>
+        <source>f7ed2492db724010533e5608689619fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Aravind</sys_created_by>
+        <sys_created_on>2020-02-08 07:49:31</sys_created_on>
+        <sys_id>e4b9301edb724010533e5608689619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17023c66c6d0000001</sys_recorded_at>
+        <sys_updated_by>Aravind</sys_updated_by>
+        <sys_updated_on>2020-02-08 07:49:31</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>60b9301e4c7240107ab1583440081cbf</update_guid>
+        <update_guid_history>60b9301e4c7240107ab1583440081cbf:-1477006140,ee49f8daab724010e712cdc4d77f6a75:1116080772,4b7830dadb7240106adfb1e6b9c6dd02:317564318,1ce7f49a897240105d67faae03f858d6:4711997,f577b09aff7240101c44df0edd356a23:1938180037,f216305a7a724010c3829963a9f820fd:1636402696,fc75781a46724010f0ed99be81ae182b:497419712,f4e17c56cc724010f49362e3371c6545:182555424</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Aravind</sys_created_by>
+        <sys_created_on>2020-02-08 08:03:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>7d77b522d8ad4e84bf9823c24a9a6709</sys_id>
+        <sys_metadata>f8e17c56db724010533e560868961943</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom App</sys_name>
+        <sys_package display_value="Tasks" source="x_457176_tasks">37ed2492db724010533e56086896194b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tasks">37ed2492db724010533e56086896194b</sys_scope>
+        <sys_scope_delete display_value="">11153248fe9341f196c87fb961db6ce9</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_f8e17c56db724010533e560868961943</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_f8e17c56db724010533e560868961943">e4b9301edb724010533e5608689619bf</sys_update_version>
+        <sys_updated_by>Aravind</sys_updated_by>
+        <sys_updated_on>2020-02-08 08:03:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

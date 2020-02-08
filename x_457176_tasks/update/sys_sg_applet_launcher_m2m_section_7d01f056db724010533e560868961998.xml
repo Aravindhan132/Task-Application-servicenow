@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Tasks">b501b056db724010533e560868961948</applet_launcher>
+        <order>10</order>
+        <section display_value="Native Task Applicatiom">3d01f056db724010533e560868961997</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>Aravind</sys_created_by>
+        <sys_created_on>2020-02-08 07:11:39</sys_created_on>
+        <sys_id>7d01f056db724010533e560868961998</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_457176_tasks">37ed2492db724010533e56086896194b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tasks">37ed2492db724010533e56086896194b</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_7d01f056db724010533e560868961998</sys_update_name>
+        <sys_updated_by>Aravind</sys_updated_by>
+        <sys_updated_on>2020-02-08 07:15:57</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

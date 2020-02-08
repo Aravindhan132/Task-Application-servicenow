@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Task)">3501f056db724010533e56086896192e</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Task)</name>
+        <order>10</order>
+        <parent>3501f056db724010533e560868961929</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>Aravind</sys_created_by>
+        <sys_created_on>2020-02-08 07:11:39</sys_created_on>
+        <sys_id>7901f056db724010533e56086896192f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Delete (Task)</sys_name>
+        <sys_package display_value="Tasks" source="x_457176_tasks">37ed2492db724010533e56086896194b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tasks">37ed2492db724010533e56086896194b</sys_scope>
+        <sys_update_name>sys_sg_button_instance_7901f056db724010533e56086896192f</sys_update_name>
+        <sys_updated_by>Aravind</sys_updated_by>
+        <sys_updated_on>2020-02-08 07:58:30</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=7901f056db724010533e56086896192f"/>
+</record_update>
